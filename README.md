@@ -8,7 +8,7 @@ I'm currently learning how to develop full-stack web applications, more specific
 - **Frontend:** React (JavaScript), Axios for API calls
 - **Database:** SQLite for storing and managing data
 ---
-Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/maxhczhang/)!
+**Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/maxhczhang/)!**
 <!--
 **maxhczhang/maxhczhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
