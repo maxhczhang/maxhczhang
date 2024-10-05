@@ -1,10 +1,14 @@
 ## Hi, I'm Max!
-
-
+### I'm an undergrad at the University of California, Irvine, looking to become a full-stack developer.  
 ---
+I'm currently learning how to develop full-stack web applications, more specifically by using Flask and React.
 
-
-
+### 🛠️ Technologies I'm Using:
+- **Backend:** Flask (Python), SQLite
+- **Frontend:** React (JavaScript), Axios for API calls
+- **Database:** SQLite for storing and managing data
+---
+Feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/maxhczhang/)!
 <!--
 **maxhczhang/maxhczhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
